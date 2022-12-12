@@ -8,6 +8,10 @@ jobs:
     runs-on: Ubuntu-latest
     steps:
       - name: "dhughugi"
-        run: echo "Hello"
+        run: pwd
+      
+      
+      - name: "dhughugi"
+        run: echo Nada
       
       
