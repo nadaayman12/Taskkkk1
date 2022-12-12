@@ -7,11 +7,10 @@ jobs:
   build:
     runs-on: Ubuntu-latest
     steps:
-      - name: "dhughugi"
-        run: pwd
+      - name: "Printing folder contents"
+        run: ls
       
       
-      - name: "dhughugi"
-        run: echo Nada
+  
       
       
